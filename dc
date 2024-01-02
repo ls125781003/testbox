@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/XYQ.json",
+      "name": "香雅情(原画在前)"
+    },
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/XYQTVBox.json",
+      "name": "香雅情(转码在前)"
+    },
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/drpy_js/drjs_config.json",
+      "name": "道长JS备份"
+    },
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/fty/fty.json",
+      "name": "饭太硬备份"
+    },
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/qiaoji/qjtvbox.json",
+      "name": "巧计备份"
+    },
+    {
+      "url": "https://bitbucket.org/ls125781003/testbox/raw/main/Yoursmile/XC.json",
+      "name": "南风备份"
+    }
+  ]
+}
